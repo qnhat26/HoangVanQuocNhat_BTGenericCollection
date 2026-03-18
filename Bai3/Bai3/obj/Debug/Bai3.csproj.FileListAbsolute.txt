@@ -1,7 +1,0 @@
-D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai3\Bai3\bin\Debug\Bai3.exe.config
-D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai3\Bai3\bin\Debug\Bai3.exe
-D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai3\Bai3\bin\Debug\Bai3.pdb
-D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai3\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
-D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai3\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
-D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai3\Bai3\obj\Debug\Bai3.exe
-D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai3\Bai3\obj\Debug\Bai3.pdb
