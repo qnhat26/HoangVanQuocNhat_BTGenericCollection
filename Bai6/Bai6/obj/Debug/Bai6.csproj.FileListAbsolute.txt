@@ -1,0 +1,7 @@
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai6\Bai6\bin\Debug\Bai6.exe.config
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai6\Bai6\bin\Debug\Bai6.exe
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai6\Bai6\bin\Debug\Bai6.pdb
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai6\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai6\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai6\Bai6\obj\Debug\Bai6.exe
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai6\Bai6\obj\Debug\Bai6.pdb
