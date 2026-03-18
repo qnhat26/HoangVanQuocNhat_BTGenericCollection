@@ -1,0 +1,7 @@
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai13\Bai13\bin\Debug\Bai13.exe.config
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai13\Bai13\bin\Debug\Bai13.exe
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai13\Bai13\bin\Debug\Bai13.pdb
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai13\Bai13\obj\Debug\Bai13.csproj.AssemblyReference.cache
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai13\Bai13\obj\Debug\Bai13.csproj.CoreCompileInputs.cache
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai13\Bai13\obj\Debug\Bai13.exe
+D:\Workspage\C#\HoangVanQuocNhat_BTGenericCollection\Bai13\Bai13\obj\Debug\Bai13.pdb
